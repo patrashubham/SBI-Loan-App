@@ -19,6 +19,18 @@
   </properties>
 
   <dependencies>
+
+<dependency>
+      <groupId>in.ashokit</groupId>
+      <artifactId>pwd-util</artifactId>
+      <version>1.1</version>
+      <scope>runtime</scope>
+    </dependency>
+
+
+
+
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
