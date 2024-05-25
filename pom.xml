@@ -19,14 +19,7 @@
   </properties>
 
 
-<repositories>
 
-  <repository>
-  <id>nexus</id>
-  <url>http://13.232.180.3:8081/repository/ashok-remote-repository/</url>
-</repository>
-
-</repositories>
 
   <dependencies>
 
