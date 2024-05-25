@@ -10,7 +10,7 @@ public class App
     {
         
 int i=10;
-       
+        String s="hi";
         System.out.println( "Hello World!" );
     }
 }
